@@ -1,4 +1,5 @@
 ﻿using Microsoft.Extensions.Logging;
+// forkeado y conectado a github.com/dotnet/maui-samples
 
 namespace Alignment;
 
